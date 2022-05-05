@@ -2,8 +2,8 @@
 title: DrinVET
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - Ruby
-  - TAG_02
+  - ruby
+  - python
   - TAG_03
   - javascript
 
@@ -26,7 +26,7 @@ meta:
 # Introduction
 
 ## About this book
-Detailing why we write it and to whom: To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. They will have a comprehensive overview on available products and methods.  The book helps to get familiar with the new approaches DR offers in education. 
+To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. They will have a comprehensive overview on available products and methods.  The book helps to get familiar with the new approaches DR offers in education. 
 (approximately 1 standard word document page) 
 ## Assumptions about the Reader
 Describing our assumptions about the readers: The book assumes that you have at least a passing familiarity with Virtual Reality and Augmented Reality. The readers may have heard the terms or seen someone trying out a VR experience at a mall or retailer or had the chance to try out a headset. 
@@ -46,6 +46,30 @@ We assume that the readers want to:
 The structure of the book is to be built up according to these needs. The book will be divided into four parts: Getting started, DR in VET, Teaching Guidelines, and Instructor 2.0. Every part of the book, however, should stand alone so the readers should be able to begin in the middle of the book if they want.  
 
 # Getting started
+
+# Digital Reality in Education
+## 1. Tools and Solutions
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis maximus lectus sit amet euismod. Aliquam vitae arcu non eros faucibus faucibus. Nunc ac maximus massa. Nulla ullamcorper dictum sem vitae aliquet. Aliquam erat volutpat. Nam imperdiet turpis nec felis convallis tristique.  
+## 2. Digital Reality in VET
+Praesent in gravida sem. Sed leo justo, malesuada eu placerat ut, molestie vehicula lacus. Integer eu accumsan leo. Curabitur scelerisque, nibh id ornare bibendum, velit eros faucibus lorem, quis tincidunt odio enim a nulla. Mauris luctus semper molestie. Vivamus hendrerit tortor a lacus tempor vestibulum. Suspendisse varius gravida dui quis placerat. Q
+## 3. How to choose
+Praesent in gravida sem. Sed leo justo, malesuada eu placerat ut, molestie vehicula lacus. Integer eu accumsan leo. Curabitur scelerisque, nibh id ornare bibendum, velit eros faucibus lorem, quis tincidunt odio enim a nulla. Mauris luctus semper molestie. Vivamus hendrerit tortor a lacus tempor vestibulum. Suspendisse varius gravida dui quis placerat. 
+## 4. Prospects
+Aliquam interdum tortor sit amet turpis pellentesque, nec faucibus odio lacinia. Quisque velit arcu, tristique ut bibendum sed, sollicitudin sit amet tortor. Proin dignissim molestie placerat. Morbi fermentum pellentesque magna pellentesque varius. Aenean venenatis, dui vitae vehicula ultricies, sapien velit efficitur odio, et tempus purus quam sit amet nibh.  Pellentesque a condimentum nisi. 
+
+# Pedagogical Guidelines
+## Approaches
+Here we will describe all the Approaches and say a few words of their implementation
+## Best Practices
+Purely implementations and Success stories EACH must end with a conlusion
+links, demos, short notes on the right sidebar!!!
+## Typical challenges
+All the challenges such as strong resitance of a senior expert or buying a simulator and not using this. Or differences btwn approaches.
+
+# Instructor 4.0
+
+# Glossary
+
 
 > To authorize, use this code:
 
