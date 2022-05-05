@@ -25,10 +25,20 @@ meta:
 
 # Introduction
 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
+
 ## About this book
 To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. They will have a comprehensive overview on available products and methods.  The book helps to get familiar with the new approaches DR offers in education. 
 (approximately 1 standard word document page) 
+
 ## Assumptions about the Reader
+Reference-style: 
+![alt text][logo]
 The book assumes that you have at least a passing familiarity with Virtual Reality and Augmented Reality. The readers may have heard the terms or seen someone trying out a VR experience at a mall or retailer or had the chance to try out a headset. 
 We assume also, that the readers have some educational background. They work for public or private vocational schools and have some experience in teaching skills.
 The book also assumes that the readers have an open mind regarding these technologies and are curious about where they are headed in the future. They want to improve and be updated with the recent pedagogical approaches in vocational education.
@@ -75,7 +85,7 @@ All the challenges such as strong resitance of a senior expert or buying a simul
 
 ```ruby
 require 'kittn'
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 api = Kittn::APIClient.authorize!('meowmeowmeow')
 ```
 
