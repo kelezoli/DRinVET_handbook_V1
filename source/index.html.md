@@ -35,6 +35,7 @@ The book also assumes that the readers have an open mind regarding these technol
  (approximately half standard word document page)
 ## The Structure of this book
 We assume that the readers want to:
+
 * know what the correct terms in Digital Reality are in general.
 * be familiar with the current technological improvements in different profession
 * know how these technologies may help to teach skills.
