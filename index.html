@@ -442,12 +442,11 @@ links, demos, short notes on the right sidebar!!!</p>
 </blockquote>
 
 <p><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" title="Logo Title Text 1" alt="alt text" /></p>
-<div class="highlight"><pre class="highlight ruby tab-ruby"><code><span class="o">&lt;</span><span class="n">code</span><span class="o">&gt;!</span><span class="p">[</span><span class="n">alt</span> <span class="n">text</span><span class="p">](</span><span class="n">https</span><span class="ss">:/</span><span class="o">/</span><span class="n">github</span><span class="p">.</span><span class="nf">com</span><span class="o">/</span><span class="n">adam</span><span class="o">-</span><span class="nb">p</span><span class="o">/</span><span class="n">markdown</span><span class="o">-</span><span class="n">here</span><span class="o">/</span><span class="n">raw</span><span class="o">/</span><span class="n">master</span><span class="o">/</span><span class="n">src</span><span class="o">/</span><span class="n">common</span><span class="o">/</span><span class="n">images</span><span class="o">/</span><span class="n">icon48</span><span class="p">.</span><span class="nf">png</span> <span class="s2">"Logo Title Text 1"</span><span class="p">)</span><span class="o">&lt;</span><span class="sr">/code&gt;
+<div class="highlight"><pre class="highlight ruby tab-ruby"><code>
+<span class="nb">require</span> <span class="s1">'kittn'</span>
 
-require 'kittn'
-
-api = Kittn::APIClient.authorize!('meowmeowmeow')
-</span></code></pre></div><div class="highlight"><pre class="highlight python tab-python"><code><span class="kn">import</span> <span class="nn">kittn</span>
+<span class="n">api</span> <span class="o">=</span> <span class="no">Kittn</span><span class="o">::</span><span class="no">APIClient</span><span class="p">.</span><span class="nf">authorize!</span><span class="p">(</span><span class="s1">'meowmeowmeow'</span><span class="p">)</span>
+</code></pre></div><div class="highlight"><pre class="highlight python tab-python"><code><span class="kn">import</span> <span class="nn">kittn</span>
 
 <span class="n">api</span> <span class="o">=</span> <span class="n">kittn</span><span class="p">.</span><span class="n">authorize</span><span class="p">(</span><span class="s">'meowmeowmeow'</span><span class="p">)</span>
 </code></pre></div><div class="highlight"><pre class="highlight shell tab-shell"><code><span class="c"># With shell, you can just pass the correct header with each request</span>
