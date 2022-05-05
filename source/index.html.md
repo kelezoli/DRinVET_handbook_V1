@@ -82,10 +82,10 @@ All the challenges such as strong resitance of a senior expert or buying a simul
 
 
 > To authorize, use this code:
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ```ruby
 require 'kittn'
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 api = Kittn::APIClient.authorize!('meowmeowmeow')
 ```
 
