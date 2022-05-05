@@ -2,7 +2,7 @@
 title: DrinVET
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - TAG_01
+  - Ruby
   - TAG_02
   - TAG_03
   - javascript
@@ -36,7 +36,7 @@ The book also assumes that the readers have an open mind regarding these technol
 ## The Structure of this book
 We assume that the readers want to:
 
-* know what the correct terms in Digital Reality are in general.
+* know what the correct terms in Digital Reality are in general
 * be familiar with the current technological improvements in different profession
 * know how these technologies may help to teach skills.
 * know new trends in education connected to DR technologies.
@@ -45,7 +45,7 @@ We assume that the readers want to:
 
 The structure of the book is to be built up according to these needs. The book will be divided into four parts: Getting started, DR in VET, Teaching Guidelines, and Instructor 2.0. Every part of the book, however, should stand alone so the readers should be able to begin in the middle of the book if they want.  
 
-# Authentication
+# Getting started
 
 > To authorize, use this code:
 
