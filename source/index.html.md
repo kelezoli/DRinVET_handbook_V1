@@ -87,7 +87,6 @@ All the challenges such as strong resitance of a senior expert or buying a simul
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ```ruby
-<code>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")</code>
 
 require 'kittn'
 
