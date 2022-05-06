@@ -59,27 +59,41 @@ Each part will be closed with a short summary, questions and useful links. Desri
 # Digital Reality in Education
 ## 1. Tools and Solutions
   **foreword**
+
     In this foreword we define Digital Reality. Define AR, VR, XR, Mixed Realities. Then briefly introduce the chapter: organizing principles.
+
   ### ABC classification
+
     The classification is form Reality Bytes - helps to organise the different solutions. A for Absorb, B for Blend, C for Create. The tags on the right sidebar can probably be exploited by the classification. 
+
   ### The simplest ways
+
     We will list here simple but clever solutions to gamify entertain and teach students with help of Digital Reality. 
     some examples:
     LMS Systems -> how to use them, 
     Video tutorials -> practical solutions or links where to get them.
     Escape rooms
     Online physical workouts. (videózd le, hogy veszed fel a zoknidat kéz nélkül...)
+  
   ### AR Solutions
+
     There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
+  
   ### VR Solutions
+    here Our stuff will come 
+  
   ### Tools to make your AR solutions
+
     A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
 
 ## 2. Digital Reality in VET
+  
   **Foreword**
     
     Praesent in gravida sem. Sed leo justo, malesuada eu placerat ut, molestie vehicula lacus. Integer eu accumsan leo. Curabitur scelerisque, nibh id ornare bibendum, velit eros faucibus lorem, quis tincidunt odio enim a nulla. Mauris luctus semper molestie. Vivamus hendrerit tortor a lacus tempor vestibulum. Suspendisse varius gravida dui quis placerat. Q
+
 ## 3. How to choose
+  
   ### Important Aspects
       Typical users - with goals and conditions.
       Benefits (Cost reduction, effectivity in teaching, )
@@ -95,34 +109,51 @@ Each part will be closed with a short summary, questions and useful links. Desri
       Technological prospects: I NEED INFO FROM VIRSABI 
       and pedagogical prospects (based on success stories and results) 
 
+
 # Pedagogical Guidelines
+
 ## Approaches
+
       Here we will describe all the Approaches (connected) and say a few words of their implementation. Gamification to be mentioned with examples and reference to the gamification handbook.
+
 ## Best Practices
+
       Purely implementations and Success stories EACH must end with a conlusion
       Links, demos, short notes on the right sidebar!!! (not only IO3 stuff...)
+
 ## Challenges
+
   ### Differences between approaches
+
       Different products represent different approaches. Level of simulation, realistic tools or not.  
-  ### Health and safety. 
+  
+  ### Health and safety
+      Here the important aspects will come
+
   ### Organizing Tips and tricks
+
      for Grouping and keeping interactivity in online blended and offline situations.
+
   ### Odd case scenarios
       All the challenges such as strong resitance of a senior expert - or buying a simulator and not using it.
 
 
 
 # Instructor 4.0
+  
   **foreword**
   Why this new role emerges
+  
   **body text**
+
   dont know yet what comes here Specifications, examples, producers who has traings and gives you certificates... who are these people where yo 
 
+
 # Glossary
+  
   All the neccessary expressions. 
   (for exeplaBlended learning now has at least three meanings: 1. in ABC classification in this book, 2. Online and offline classroom together, 3. Rotated use of simulators and other tools at the same time in Sorin presentation in IO3 )
   
-
 
 
 > To authorize, use this code:
