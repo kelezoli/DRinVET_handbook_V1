@@ -26,10 +26,6 @@ meta:
 # Introduction
 
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
 
 
 ## About this book
@@ -83,8 +79,6 @@ All the challenges such as strong resitance of a senior expert or buying a simul
 
 
 > To authorize, use this code:
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ```ruby
 
