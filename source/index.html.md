@@ -23,6 +23,9 @@ meta:
     content: Documentation for Digital Reality in VET
 ---
 
+# Digital Reality in Vocational Education
+as of may 05 2022
+
 # Introduction
 
 
