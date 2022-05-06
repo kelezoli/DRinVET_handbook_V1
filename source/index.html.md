@@ -24,6 +24,7 @@ meta:
 ---
 
 # Digital Reality in Vocational Education
+![Temporary Banner](/images/Banner_VR_temporary.png)
 as of may 05 2022
 
 # Introduction
@@ -41,7 +42,7 @@ The book assumes that you have at least a passing familiarity with Virtual Reali
 We assume also, that the readers have some educational background. They work for public or private vocational schools and have some experience in teaching skills.
 The book also assumes that the readers have an open mind regarding these technologies and are curious about where they are headed in the future. They want to improve and be updated with the recent pedagogical approaches in vocational education.
  (approximately half standard word document page)
- 
+
 ## The Structure of this book
 We assume that the readers want to:
 
