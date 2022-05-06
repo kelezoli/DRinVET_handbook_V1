@@ -41,6 +41,7 @@ The book assumes that you have at least a passing familiarity with Virtual Reali
 We assume also, that the readers have some educational background. They work for public or private vocational schools and have some experience in teaching skills.
 The book also assumes that the readers have an open mind regarding these technologies and are curious about where they are headed in the future. They want to improve and be updated with the recent pedagogical approaches in vocational education.
  (approximately half standard word document page)
+ 
 ## The Structure of this book
 We assume that the readers want to:
 
@@ -62,11 +63,11 @@ Each part will be closed with a short summary, questions and useful links. Desri
 
     In this foreword we define Digital Reality. Define AR, VR, XR, Mixed Realities. Then briefly introduce the chapter: organizing principles.
 
-  ### ABC classification
+  **ABC classification**
 
     The classification is form Reality Bytes - helps to organise the different solutions. A for Absorb, B for Blend, C for Create. The tags on the right sidebar can probably be exploited by the classification. 
 
-  ### The simplest ways
+  **The simplest ways**
 
     We will list here simple but clever solutions to gamify entertain and teach students with help of Digital Reality. 
     some examples:
@@ -75,14 +76,14 @@ Each part will be closed with a short summary, questions and useful links. Desri
     Escape rooms
     Online physical workouts. (videózd le, hogy veszed fel a zoknidat kéz nélkül...)
   
-  ### AR Solutions
+  **AR Solutions**
 
     There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
   
-  ### VR Solutions
+  **VR Solutions**
     here Our stuff will come 
   
-  ### Tools to make your AR solutions
+  **Tools to make your AR solutions**
 
     A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
 
@@ -94,15 +95,15 @@ Each part will be closed with a short summary, questions and useful links. Desri
 
 ## 3. How to choose
   
-  ### Important Aspects
+  **Important Aspects**
       Typical users - with goals and conditions.
       Benefits (Cost reduction, effectivity in teaching, )
       Challenges in reorganization of classrooms, methods, skills attitudes.
   
-  ### Approaches in development 
+  **Approaches in development** 
       Introduce approaches in welding, then transfer the conclusions to other skills. 
   
-  ### Producers 
+  **Producers** 
       Key players and their strategies
     
 ## 4. Prospects
@@ -123,18 +124,18 @@ Each part will be closed with a short summary, questions and useful links. Desri
 
 ## Challenges
 
-  ### Differences between approaches
+  **Differences between approaches**
 
       Different products represent different approaches. Level of simulation, realistic tools or not.  
   
-  ### Health and safety
+  **Health and safety**
       Here the important aspects will come
 
-  ### Organizing Tips and tricks
+  **Organizing Tips and tricks**
 
      for Grouping and keeping interactivity in online blended and offline situations.
 
-  ### Odd case scenarios
+  **Odd case scenarios**
       All the challenges such as strong resitance of a senior expert - or buying a simulator and not using it.
 
 
