@@ -23,14 +23,9 @@ meta:
     content: Documentation for Digital Reality in VET
 ---
 
-# Digital Reality in Vocational Education
+
 ![Temporary Banner](/images/Banner_VR_temporary.png)
 # Introduction
-
-
-
-
-## About this book
 To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. They will have a comprehensive overview on available products and methods.  The book helps to get familiar with the new approaches DR offers in education. 
 (approximately 1 standard word document page) 
 
