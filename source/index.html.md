@@ -23,12 +23,11 @@ meta:
     content: Documentation for Digital Reality in VET
 ---
 
-
 ![Temporary Banner](/images/Banner_VR_temporary.png)
-# Digital Reality in Vocational Education
-To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. 
+# Introduction
+This Handbook is dedicated to teachers, trainers and decision makers in vocational education systems, to help to get familiar with digital reality tools and systems when you plan to implement them. Last but not at least the book is dedicated to the young generation breaking new ways in teaching and learning. 
 
-The book assumes that you have at least a passing familiarity with Virtual Reality and Augmented Reality. The readers may have heard the terms or seen someone trying out a VR experience at a mall or retailer. You may work for public or private vocational schools and have experience in teaching. 
+We assume that you have at least a passing familiarity with Virtual Reality and Augmented Reality. You may have heard the terms or seen someone trying out a VR experience at a mall or retailer. No more prerequsites are needed.
 
 # The Structure of this book
 
