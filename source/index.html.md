@@ -29,7 +29,7 @@ This Handbook is dedicated to teachers, trainers and decision makers in vocation
 
 We assume that you have at least a passing familiarity with Virtual Reality and Augmented Reality. You may have heard the terms or seen someone trying out a VR experience at a mall or retailer. No more prerequsites are needed.
 
-The book will be divided into five parts as seen on the content to the left. The right sidebar will add more details broken down to tabs: "producers", "teaching", "best practices" *(still dont know the fourth)*
+The book will be divided into five parts as seen on the contents to the left. The right sidebar will add more details broken down to tabs: "producers", "teaching", "best practices" *(still dont know the fourth)*
 
 # Getting started
 
