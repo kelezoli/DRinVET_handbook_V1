@@ -25,7 +25,7 @@ meta:
 
 
 ![Temporary Banner](/images/Banner_VR_temporary.png)
-# Introduction
+# Digital Reality in Vocational Education
 To Teachers and trainers and decision makers in vocational education systems, hoping that it will help to get familiar with digital reality tools and systems. They will have a comprehensive overview on available products and methods.  The book helps to get familiar with the new approaches DR offers in education. 
 (approximately 1 standard word document page) 
 
