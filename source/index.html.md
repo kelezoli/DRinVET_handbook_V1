@@ -30,7 +30,8 @@ To Teachers and trainers and decision makers in vocational education systems, ho
 
 The book assumes that you have at least a passing familiarity with Virtual Reality and Augmented Reality. The readers may have heard the terms or seen someone trying out a VR experience at a mall or retailer. You may work for public or private vocational schools and have experience in teaching. 
 
-**The Structure of this book**
+# The Structure of this book
+
 We assume that the readers want to:
 
 * know what the correct terms in Digital Reality are in general
