@@ -25,8 +25,6 @@ meta:
 
 # Digital Reality in Vocational Education
 ![Temporary Banner](/images/Banner_VR_temporary.png)
-as of may 05 2022
-
 # Introduction
 
 
