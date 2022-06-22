@@ -23,7 +23,7 @@ meta:
     content: Documentation for Digital Reality in VET
 ---
 
-![Temporary Banner](/images/Banner_VR_temporary.png)
+![Temporary Banner](/images/banner2.png)
 # Introduction
 
 You are standing a in a glass box with a gun. The box gets wider and turns itself a large car industry workspace. With your spray gun you can paint  the car parts and when you got finished, you do not have to wait until it gets dried, nor to get undressed. Also, you do not have to sand the part to repaint again for the next run, no pollution and no health damage risks, because  you are in the world of Virtual Reality. 
