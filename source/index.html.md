@@ -28,15 +28,15 @@ meta:
 
 You are standing a in a glass box with a gun. The box gets wider and turns itself a large car industry workspace. With your spray gun you can paint  the car parts and when you got finished, you do not have to wait until it gets dried, nor to get undressed. Also, you do not have to sand the part to repaint again for the next run, no pollution and no health damage risks, because  you are in the world of Virtual Reality. 
 
-You are in front of a flat screen simulator following a path with your welding gun and the simulator will follow your hand and measuring the distance, the angles of your hand and the traveling speed of the gun. Before this tool, nobody could improve motor skills so fast and accurately, because  of the lack of instant feedback.
+You are in front of a flat screen following a path with your welding gun and the simulator will follow your hand and measuring the distance, the angles of your hand and the traveling speed of the gun. Before this tool, nobody could improve motor skills so fast and accurately, because  of the lack of instant feedback.
 
-You are standing on the board of a container ship and control the loading and departing. You act in a simulated accident scenarios in different weather conditions. As the ship’s officer in a scenario on a docking ship, you are instructed by the captain and must observe conditions and surroundings to react in time through radio. The immersive Virtual Reality helps you to learn the good safety protocols quickly and trains you to react even in very stressed conditions
+You are standing on the board of a container ship and control the loading and departing. You act in a simulated accident scenarios in different weather conditions. As the ship’s officer in a scenario on a docking ship, you are instructed by the captain and must observe conditions and surroundings to react in time through radio. The immersive Virtual Reality helps you to learn the good safety protocols quickly and trains you to react even in very stressed conditions.
 
-We find ourselves in a rapidly emerging technology field. The industry is constantly abuzz with the “next big things” new and newest a Virtual Reality headsets, haptic gloves and fast, reliable devices that do the magic: you feel as if you were there. The headsets tracks your head movements accurately. The visuals are more than convincing. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire, gaze out the windows with the professional audio tying it all together. It feels real.
+We find ourselves in a rapidly emerging technology field. The industry is constantly abuzz with the “next big things” new and newest a Virtual Reality headsets, haptic gloves and fast, reliable devices that do the magic: you feel as if you were there. The headsets tracks your head movements accurately. The visuals are more than convincing. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire, gaze out the windows with the professional audio tying it all together. It feels real. And it is getting cheaper. Now, when we write the book, a standalone headset that does require even a laptop costs apporximately 800 Euros and gives a full immersive experience.
 
-And if you make one step further, the educational simulations (so called Serious Games)  are developed to follow very tiny movements of your fingers (to simulate medical operations or welding) teach safety protocols (in maritime solutions) drive vehicles in terrains in deep forests or handle construction cranes even in strong wind 200 meters from the ground with high fidelity. 
+And if you make one step further, the educational simulations (so called Serious Games)  are developed to follow very tiny movements of your fingers  teach safety protocols,  drive vehicles in terrains in deep forests or handle construction cranes even in strong wind 200 meters from the ground with high fidelity. 
 
-## About this book
+## About this handbook
 
 This Handbook on Digital Reality in Vocational Education (DR in VET) is dedicated to teachers, trainers and decision makers in vocational education systems, to help to get familiar with digital reality tools and systems when you plan to implement them. Last but not at least the book is dedicated to the young generation breaking new ways in teaching and learning. 
 
@@ -57,7 +57,7 @@ We made assumptions about your digital knowledge. We assume that you as a teache
 Also, we have assumptions about your students. Your students may fall into these broad age categories:
 
 - Youngsters (14  to 22 or so)
-- Adults who want / are obliged to refresh their skills
+- Adults who are obliged (or want) to refresh their skills
 
 They may have very different background coupled with numerous attitudes:
 
@@ -65,7 +65,7 @@ They may have very different background coupled with numerous attitudes:
 - Low but not very low social status with a remarkable support to break out. Gifted students with help of teachers or parents for example.
 - High social status with strong commitment. For example, coming from a traditional crafting or artist family, or,  as an adult, choosing a second career path.  
 
-The VET usually lasts three years which is taken mainly in a dual system.
+The education or training process usually lasts three years which is taken mainly in a dual system.
 
 
 
@@ -87,7 +87,130 @@ The book is divided into five parts as seen on the contents to the left. In "Get
 
 ## 
 
-# Getting started
+
+
+# Digital Reality in Education
+
+## 1. What is Digital reality?
+
+**IN THIS CHAPTER** 
+
+- Understanding digital reality terms
+- Understanding the use of digital reality in education
+- List some related terms 
+- List solutions ranging form cheap but clever to full scale ones.
+
+------
+
+Digital reality (DR) is often used as a general term for all type of immersive experiences, including virtual reality (VR), augmented reality (AR) , mixed reality (MR), and extended reality (XR). 
+In this book Virtual Reality means an immersive computer-simulated reality that creates a physical environment that does not exist. Virtual environments may resemble real places (such as a workshop area or a cockpit of a crane) or imagined ones (the deck of the Titanic), they are not in the current physical environment.
+
+Figure 1-1 shows an example of a VR environment. It’s a screen shot of [.......].
+
+On contrast, *Augmented reality* is a way of viewing the real world and adding extra content ( augmenting) to the real world visual.  The main difference between VR and AR is that AR modify the real visual instead of simulating a visual that do not exist in the current reality. 
+
+Originally, in AR, the computer-generated content is an add on on a separate layer that does not communicate the real world content.  Now, however AR solutions tend to include interaction with the real world objects and this blended solution is often referred as *mixed reality* (MR). For the sake of simplicity we will refer augmented reality as an umbrella term that cover mixed reality too. 
+
+Figure 1-2 shows an example of AR.
+
+Figure 1-3 shows the entire reality - virtual reality continuum
+
+![1657196839137](C:\Users\zoltan\AppData\Roaming\Typora\typora-user-images\1657196839137.png)
+
+
+
+
+
+
+
+***will list here simple but clever solutions to gamify entertain and teach students with help of Digital Reality.*** 
+
+​    ***some examples:***
+
+​    ***LMS Systems -> how to use them,*** 
+
+​    ***Video tutorials -> practical solutions or links where to get them.***
+
+​    ***Escape rooms***
+
+​    ***Online physical workouts. (videózd le, hogy veszed fel a zoknidat kéz nélkül...)***
+
+  
+
+  **AR Solutions**
+
+​    There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
+
+  
+
+  **VR Solutions**
+
+​    here Our stuff will come 
+
+  
+
+  **Tools to make your AR solutions**
+
+​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
+
+## 2. Digital Reality in VET
+
+What are the advantages of the digital reality in vocational education? Teaching new things? Doing the same quicker, deeper and for more students? Or doing the same as before but cheaper? Or just reducing the risk of accidents or health threatening actions? Or all of them together? Can we measure effectiveness? In this chapter we gathered the most important advantages. Do not forget however, none of the virtual reailty tools can substitute real tools. They can complement reality but very seldom substitute them. How can increase effectiveness in this hybrid environment? This is the question the chapter answers by listing advantages of Digital Reality in vocational education and training. 
+
+### Customised and detailed progress
+
+Egyéni tempójú tanulást tesz lehetővé, saját profillal, személyre szabott visszajelzéssel
+
+### Avoiding early bad routines
+
+ide jön a hegesztés példája - rossz mozdulatok hamar kialakulnak, nehéz felfedezni őket és nehéz kijavítani őket. ehhez képest a hegesztő szimulátorok a kéz tartási szögét a haladás menetét
+
+### Corvering full spectrum
+
+### Savings in materials
+
+### Savings in administration costs
+
+### Green solutions
+
+### Health risks decreased
+
+### Prestiege
+
+### Motivation by gamification
+
+### Selection with DR tools
+
+
+
+## 3. How to choose
+
+To select the right immersive educational solution, you need to be aware of some technological aspects. First, you should have a close look at the hardware. Simulations differ in the system that tracks human motions, then digitalises them and trasfers signals to the screen or the oculars. These differences are very important when you try to find the best solution for your school.
+
+**What** **types of sensors** the device works with? Light or ultrasound? Can the signal be disturbed by envinromental changes? The curtain in the classroom moves and the light changes in a sunny afternoon and you have to recalibrate. Are there other machines using ultrasound nearby? If yes, one of the machines may end up in the cellar. 
+Here is a specific example from welding. An important difference of "cheap" optical motion transmission system: it cannot realize and display the weight loss of the electrode during welding. It only senses that the end of the device is in front of the workpiece, but it cannot simulate the weight loss of the welding material in real time, thus teaching poor movement coordination.… 
+
+**What is the reliability and lifespan** of the motion tracking system? Needs to recalibrate soon? Goes wrong after a hundred students? Read reviews, ask other customers, negotiate with the producer to guarantee a good service level. Try to be as specific as you can when negotiating service levels such as availability of service, deadlines. The motion tracking system is the soul of the hardware. It might be cheap at the time of buying but may cost lot more afterwards. 
+
+**Integrability**. Now, see the software. Is the simulation automatized enough? In other words, does simulation allow you to learn without a constant engagement of a teacher? The main goal is not only to provide "realistic" visualization, but give a pedagogical structure. Through it, the device itself can teach the correct coordination of movements for the practical application of the skill as quickly and accurately as possible.  Some producers sell yet unexplored solutions, which have serious shortcomings and limitations. *One sign of the inexperience is that its use still requires a permanent teacher supervision*, which means the complete engagement of the practical instructor while using the simulation. Thus, in case of welding for example, the realisable savings are reduced to only the materials and gases to be used in the training, and the wage cost savings achieved by offloading the instructor cannot be counted**.** 
+
+Without a good pedagogical system, the simulator is useless in vocational training, because just as in the traditional training, the student ,if left alone, can develop, "bad habits" that are difficult to correct afterwards. 
+
+Some manufacturers do not have a record of how the simulation can be integrated into practical training in either school system or adult training and the extent to which savings can be realized. Thus, the return period of the product cannot be calculated or estimated. 
+
+**Can the simulation improve concentration skills directly and individually?** 
+
+Concentration means control of attention. It is the ability to focus the mind on one  subject, object, or thought, and at the same time *exclude from the mind every other unrelated thought, ideas, feelings, and sensations*. Is the software suitable for measuring users' concentration ability and improving their individualized ability? This is an important aspect of a skilled worker that he can constantly concentrate on what he does. And the development of this ability is very much needed even in school. Ask the manufacturer to show you specifically how the device and its software measure focusing skills. Does it provide systematic training with sessions? Does it show improvement with numbers? Can the softver give  personal profiles for indiviudals in concentration skills development?  
+
+**Knowing the clients** The last aspect is the human factor. An important selection criterion is also the depth to which the distributor of the prodcut knows the needs of the schools. They supposed to have experience in training. They should have new ideas to support the school in integrating the simulation into practical training, based on their practical experience. The real experts are in daily contact with skill trainers, so they can provide right instructions and information about the effective ways of integrating simulation, even online. 
+
+It is therefore worth examining the existence and clear applicability of the software that performs important analyses for the instructor from the point of view of the management of the training, because any differences will slow down the problem-free synchronization in the virtual environment with the virtual and real practical training. 
+
+These findings were made in the framework of a European project, VIRTWELD, based on a detailed comparison of each solution. 
+
+
+
+## 4. Obstacles
 
 **IN THIS CHAPTER**
 
@@ -133,94 +256,20 @@ There is a specific situation: A jack-of-all-trades. A single teacher who had th
 
 If you are interested in the principles of the instructor 2.0 you read on 
 
-[**this link ami majd mutat az isntruktor 2.0-ra**]    www.xxx.com 
-
 #### Situation four: Manufacturers
 
 In this last situation we step into the corporate world. There is a great interest to use Digital Reality solutions in schools maintained by manufacturers. The reasons are cost effectiveness, using much less raw material and the ability to teach industry specific standards. Caterpillar France, for example, is a large manufacturer company hiring a lot of welders. Some are directly hired by the company, others are coming from subcontractors. The company has several plants around the world and, most of them have a private training centre to train the newcomers and to re-certify the existing welders. They searched for a digital solution, in one of their plants, where 4000 people were working. They have around 130 new welders to train each year. The cost of the raw material for the training of these people was around 55 000 €. The welder spends 3 weeks in the training centre full time. 
 
 Every 2 years, the experienced welders must be re-certified. This is a one day session and it costs 10 000 € for 300 welders per year. During this day, the welder was not working in the plant. Caterpillar wanted to reduce its training cost with the same training quality. 
 
-They decided a to invest into Cs Wawe simulation system to reduce the training duration and then ensure that the skill of their welders was kept at least on the same level as traditional methods would provide.  At the end, they saved :
+They decided a to invest into a Virtual Welding Training system (VWTS) to reduce the training duration and then ensure that the skill of their welders was kept at least on the same level as traditional methods would provide.  At the end, they saved :
 
 - 30 000 € of raw material per annum
 - 25 000 € of salary (for recertification mainly)
 - The initial training time reduction implies that the welder will be quicker in a working situation. The financial benefit of this is not evaluated yet. This figure is on a yearly basis and so, they saved more than 55 000 € per year thanks to the digital realty solution. 
-- They also noticed that the trainers have more time available to work on other things while Cs Wave is taking care of the trainees… In that way, they have free slots to find new investments in robots, develop new training processes, set up new training sessions.
+- They also noticed that the trainers have more time available to work on other things while the VWTS solution is taking care of the trainees… In that way, they have free slots to find new investments in robots, develop new training processes, set up new training sessions.
 
-
-
-# Digital Reality in Education
-
-## 1. What is Digital reality?
-
-**IN THIS CHAPTER** 
-
-- Understanding what digital reality, virtual and augmented reality are
-- Understanding the use of digital reality in education
-- List some related terms 
-- List solutions ranging form cheap but clever to full scale ones.
-
-------
-
-Virtual reality (VR) is often used as a general term for all type of immersive experiences, including augmented reality (AR) , mixed reality (MR), and extended reality (XR). 
-In this book Virtual Reality means an immersive computer-simulated reality that creates a physical environment that does not exist. Virtual environments may resemble real places (such as a workshop area or a seat of a crane) or imagined ones (the deck of the Titanic), they are not in the current physical environment.
-
-Figure 1-1 shows an example of a VR environment. It’s a screen shot of [.......].
-
-On contrast, *Augmented reality* is a way of viewing the real world and adding extra content ( augmenting) to the real world visual.  The main difference between VR and AR is that AR modify the real visual instead of simulating a visual that do not exist in the current reality. 
-
-Originally, in AR, the computer-generated content is an add on on a separate layer that does not communicate the real world content.  Now, however AR solutions tend to include interaction with the real world objects and this blended solution is often referred as *mixed reality* (MR). For the sake of simplicity we will refer augmented reality as an umbrella term that cover mixed reality too. 
-
-Figure 1-2 shows an example of AR.
-
-
-
-
-
-will list here simple but clever solutions to gamify entertain and teach students with help of Digital Reality. 
-
-​    some examples:
-
-​    LMS Systems -> how to use them, 
-
-​    Video tutorials -> practical solutions or links where to get them.
-
-​    Escape rooms
-
-​    Online physical workouts. (videózd le, hogy veszed fel a zoknidat kéz nélkül...)
-
-  
-
-  **AR Solutions**
-
-​    There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
-
-  
-
-  **VR Solutions**
-
-​    here Our stuff will come 
-
-  
-
-  **Tools to make your AR solutions**
-
-​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
-
-## 2. Digital Reality in VET
-
-  
-
-  **Foreword**
-
-​    
-
-​    Praesent in gravida sem. Sed leo justo, malesuada eu placerat ut, molestie vehicula lacus. Integer eu accumsan leo. Curabitur scelerisque, nibh id ornare bibendum, velit eros faucibus lorem, quis tincidunt odio enim a nulla. Mauris luctus semper molestie. Vivamus hendrerit tortor a lacus tempor vestibulum. Suspendisse varius gravida dui quis placerat. Q
-
-## 3. How to choose
-
-  
+This story is not new. It happened in 2008. Competition in cost effectiveness is a great driver.
 
   **Important Aspects**
 
@@ -242,7 +291,9 @@ will list here simple but clever solutions to gamify entertain and teach student
 
  
 
-## 4. Prospects
+
+
+## 5. Prospects
 
 ​      Technological prospects: I NEED INFO FROM VIRSABI 
 
@@ -280,7 +331,7 @@ will list here simple but clever solutions to gamify entertain and teach student
 
 ​      All the challenges such as strong resitance of a senior expert - or buying a simulator and not using it.
 
-# Instructor 4.0
+## Instructor 2.0
 
   
 
