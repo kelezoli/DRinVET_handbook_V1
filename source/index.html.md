@@ -101,7 +101,7 @@ The book is divided into five parts as seen on the contents to the left. In "Get
 - List some related terms 
 - List solutions ranging form cheap but clever to full scale ones.
 
-------
+
 
 Digital reality (DR) is often used as a general term for all type of immersive experiences, including virtual reality (VR), augmented reality (AR) , mixed reality (MR), and extended reality (XR). 
 In this book Virtual Reality means an immersive computer-simulated reality that creates a physical environment that does not exist. Virtual environments may resemble real places (such as a workshop area or a cockpit of a crane) or imagined ones (the deck of the Titanic), they are not in the current physical environment.
