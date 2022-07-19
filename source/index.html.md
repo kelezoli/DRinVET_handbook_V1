@@ -49,7 +49,8 @@ We wrote this book for you because we'd like to :
 - Guidelines for teaching with and implementing digital reality solutions.
 
 ## Assumptions
-<img src="/images/assumptions.png" alt="Assumptions_intial" width="50%"/>
+
+<img src="/images/assumptions.png" alt="Assumptions_intial" width="50%" align="right"/>
 Before we dive into the world of Digital Reality, we should say a few words about reality in vocational education. Some training centers are well equipped and have numerous well trained teachers. Most of them, however, are far from being aware of the whole range of opportunities digital realities offer. To be realistic, we assume you may work in a school in a mostly centralized educational system with limited influence and resources. We detail [typical situations](https://kelezoli.github.io/DRinVET_handbook_V1/#4-obstacles)later on in the chapeter four "Obstacles".
 
 We made assumptions about your digital knowledge. We assume that you as a teacher have at least a passing familiarity with Virtual Reality (VR),  Augmented Reality (AR). You may have heard the terms or seen someone trying out a VR experience at a mall or retailer. We assume that you have a certain experience of using learning management software (LMS) such as Moodle, or Google Classroom. You use or are aware of social media such as Facebook or Instagram. You used or saw using videoconferencing tools such as Zoom or Microsoft Teams. You are capable to install, run applications on smartphones and personal computers (PCs).  
