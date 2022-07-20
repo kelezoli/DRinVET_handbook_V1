@@ -38,6 +38,7 @@ And if you make one step further, the educational simulations (so called Serious
 
 ## About this handbook
 
+<img src="/images/Lion-small.png" alt="Assumptions_intial" width="50%" align="right"/>
 This Handbook on Digital Reality in Vocational Education (DR in VET) is dedicated to teachers, trainers and decision makers in vocational education systems, to help to get familiar with digital reality tools and systems when you plan to implement them. Last but not at least the book is dedicated to the young generation breaking new ways in teaching and learning. 
 
 We wrote this book for you because we'd like to : 
@@ -188,7 +189,7 @@ ide jön a hegesztés példája - rossz mozdulatok hamar kialakulnak, nehéz fel
 
 To select the right immersive educational solution, you need to be aware of some technological aspects. First, you should have a close look at the hardware. Simulations differ in the system that tracks human motions, then digitalises them and trasfers signals to the screen or the oculars. These differences are very important when you try to find the best solution for your school.
 
-**What** **types of sensors** the device works with? Light or ultrasound? Can the signal be disturbed by envinromental changes? The curtain in the classroom moves and the light changes in a sunny afternoon and you have to recalibrate. Are there other machines using ultrasound nearby? If yes, one of the machines may end up in the cellar. 
+**What types of sensors** the device works with? Light or ultrasound? Can the signal be disturbed by envinromental changes? The curtain in the classroom moves and the light changes in a sunny afternoon and you have to recalibrate. Are there other machines using ultrasound nearby? If yes, one of the machines may end up in the cellar. 
 Here is a specific example from welding. An important difference of "cheap" optical motion transmission system: it cannot realize and display the weight loss of the electrode during welding. It only senses that the end of the device is in front of the workpiece, but it cannot simulate the weight loss of the welding material in real time, thus teaching poor movement coordination.… 
 
 **What is the reliability and lifespan** of the motion tracking system? Needs to recalibrate soon? Goes wrong after a hundred students? Read reviews, ask other customers, negotiate with the producer to guarantee a good service level. Try to be as specific as you can when negotiating service levels such as availability of service, deadlines. The motion tracking system is the soul of the hardware. It might be cheap at the time of buying but may cost lot more afterwards. 
