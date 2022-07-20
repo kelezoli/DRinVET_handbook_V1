@@ -223,7 +223,6 @@ These findings were made in the framework of a European project, VIRTWELD, based
 - Understanding factors that works against change
 - Give ideas to avoid traps in implementation
 
-------
 
 ### Organisation Development perspective
 
