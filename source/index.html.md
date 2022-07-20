@@ -230,11 +230,11 @@ Implementing brand new ideas is a struggling process even when the expected outc
 
 Before we put on Virtual Reality glasses, we'd better step back and put on another one, the Organisational Developer's (OD) spectaculars. We humans do not like change so much and do a lot to regain the status quo.  With careful planning however, a good project team can avoid the most common traps that work against change. That is why we start with the question: 
 
-#### What is your situation? 
+### What is your situation? 
 
 Are you a teacher in a public school? Or do you work in a private skills center? Here you will find the most frequent situations we met. We tailored the information in this part according to the needs and opportunities we learned from interviews of teachers and directors of private and public schools. We hope that by browsing through the types below you easily find solutions or how to-s to implement your Digital Reality solution. 
 
-#### Situation one: Public Schools
+### Situation one: Public Schools
 
 The most common situation in public schools is that modernizing is a struggling process. Resources are limited, there are a lot of students, the structure of the traditional teaching is strong and reluctant to change. There are cases when a school invests in a simulator that ends up in the garage eventually. Unpacked. Our interviews revealed numerous traps slowing down or even preventing a breakthrough. 
 
@@ -243,7 +243,7 @@ The most common situation in public schools is that modernizing is a struggling 
 - **Reorganisation** New tools often require new methods in teaching, new organisation schemes in the class, new timing, new logistics, new spaces.  If, for example, a painter class has a brand new simulator, then there will be questions to answer: how many students can it serve simultaneously? What should the teacher do with the other students? How long will it take to restart with a different configuration for the next class or the next student? One hour long class will be okay or shall we allocate double hours ? Does the simulator have a one size fits all VR glass with adjustable buckles? If yes, should you have multiple glasses to avoid downtimes that comes with the readjusting to fit the next student head? And how to avoid virus infections using the same VR glass? Is the simulator transportable easily? If not, where should they be installed? Does it have infrared sensors? Will it work in a darkroom only? 
 - **Maintenance** There are two aspects here. One is the service level the seller may provide you in terms of costs of support, updates, planned and unplanned availability and spare parts. There are pricing plans that focus on your needs and after initial investments the majority of the support is almost free (software updates for example). Other pricing plans are the opposite: producers offers solutions for a relatively low price, but the updates and maintenance will cost higher.  The other aspect, however, is your own maintenance ability. This is definitely an organisational issue, and needs considerable effort. You may have received a really good Digital Reality device and everybody was happy. Students love it, you love it. But if you are the only one, who thoroughly reads the manual, and regularly contacts the support guy, then you made a mistake. After a while you realize that you have  painted yourself into a corner by accepting that the other teachers have no time or even worse, are not willing to learn the details of the configuration. And when you leave, the  goes into a dusty cupboard in the cellar because nobody really knows how to set it up and fix it but you. To avoid this, you should regularly share your knowledge with your colleagues, invite them to training sessions or make a website with the common faults and their fixes. You may include teaching tips and tricks. Not long after you will realize that your contribution to the community will return in less stress and professional common knowledge.
 
-#### Situation two: Skill Centers
+### Situation two: Skill Centers
 
 Skills Centers typically work with small groups and can provide much more flexibility in the way they teach.  In our experience, sill centers are very satisfied with Digital Reality solutions, because they can effectively teach new skills on the introductory level. If you work for a skill center, you probably have less issues to solve, but they turn to be more specific.
 
@@ -252,13 +252,13 @@ Skill Centers probably cover wide age groups. Your students may come with greate
 There are big differences in skill centers. One of them focuses only on metal works and is located in a village and its students come from the nearby villages. Another is a new green field investment with huge open spaces for robotics, welding simulations, automotive industry or woodwork. The former competes for the students with other skill centers offering certificates that could be obtained quickly. The latter represents high quality elite education where the students compete to get in. 
 The strategy should be present in investment decisions. If the goal is to give quick trainings and the training cycle is short, it would be favourable to search solutions with portability, simplicity, with less extras but massive spare parts and headsets, and good quality support with reasonable prices. If the goal is to give a full course there other factors emerge such as different machines for different purposes, capabilities for logging and comparing students performance, capability for learning without assistance to name a few.
 
-#### Situation three: Singles
+### Situation three: Singles
 
 There is a specific situation: A jack-of-all-trades. A single teacher who had the opportunity to establish a room or two for several tools in a school. In years, he or she managed to buy a laser engraver, a few 3D printers, Arduino devices, Lego robots, PC-s and simulators. He or she had piled a tremendous amount of materials about using and teaching with these digital solutions. There is only one problem: the empire of one person is vulnerable. Does he have assistance? Did he have time to document the devices and best practices? The same applies here as in "maintenance" above: you should share your knowledge, invite others to training sessions and write documentation with teaching tips and tricks. Do not work alone if possible.
 
 If you are interested in the principles of the instructor 2.0 you read on 
 
-#### Situation four: Manufacturers
+### Situation four: Manufacturers
 
 In this last situation we step into the corporate world. There is a great interest to use Digital Reality solutions in schools maintained by manufacturers. The reasons are cost effectiveness, using much less raw material and the ability to teach industry specific standards. Caterpillar France, for example, is a large manufacturer company hiring a lot of welders. Some are directly hired by the company, others are coming from subcontractors. The company has several plants around the world and, most of them have a private training centre to train the newcomers and to re-certify the existing welders. They searched for a digital solution, in one of their plants, where 4000 people were working. They have around 130 new welders to train each year. The cost of the raw material for the training of these people was around 55 000 €. The welder spends 3 weeks in the training centre full time. 
 
