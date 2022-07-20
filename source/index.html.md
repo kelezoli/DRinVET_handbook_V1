@@ -117,7 +117,7 @@ Figure 1-2 shows an example of AR.
 
 Figure 1-3 shows the entire reality - virtual reality continuum
 
-![1657196839137](C:\Users\zoltan\AppData\Roaming\Typora\typora-user-images\1657196839137.png)
+![Reality_virtuality continuum](/images/reality_virtuality_contiuum_inverted.png)
 
 
 
