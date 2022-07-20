@@ -72,6 +72,7 @@ The education or training process usually lasts three years which is taken mainl
 
 ## How we organized this book
 
+<img src="/images/Cow_Milking-small.png" alt="Assumptions_intial" width="50%" align="left"/>
 This is a handbook, planned to look up things in it occasionally.  We list ideas, how-tos, tips and tricks and best practices, hoping that the topics we cover will help you and your students to improve and be happy with their career. We also assume a relevance order on what you may be interested most. That is why topics related to Augmented Reality and Virtual Reality got more weight in this book than LMSes and videoconferencing.
 
 The book is divided into five parts as seen on the contents to the left. In "Getting Started" we 
