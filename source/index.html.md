@@ -89,7 +89,6 @@ The book is divided into five parts as seen on the contents to the left. In "Get
 
 
 
-
 # Simulations in Education
  
 ## 1. What is Digital reality?
