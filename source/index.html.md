@@ -107,7 +107,9 @@ The book is divided into five parts as seen on the contents to the left. In "Get
 Digital reality (DR) is often used as a general term for all type of immersive experiences, including virtual reality (VR), augmented reality (AR) , mixed reality (MR), and extended reality (XR). 
 In this book Virtual Reality means an immersive computer-simulated reality that creates a physical environment that does not exist. Virtual environments may resemble real places (such as a workshop area or a cockpit of a crane) or imagined ones (the deck of the Titanic), they are not in the current physical environment.
 
-Figure 1-1 shows an example of a VR environment. It’s a screen shot of [.......].
+Figure 1-1 shows an example of a VR environment. It’s a screen shot of a professional painting simulator.
+
+ ![Painting Simulator VR screenshot](/images/SimSpray-Process-Airless.png)
 
 On contrast, *Augmented reality* is a way of viewing the real world and adding extra content ( augmenting) to the real world visual.  The main difference between VR and AR is that AR modify the real visual instead of simulating a visual that do not exist in the current reality. 
 
