@@ -116,6 +116,7 @@ On contrast, *Augmented reality* is a way of viewing the real world and adding e
 Originally, in AR, the computer-generated content is an add on on a separate layer that does not communicate the real world content.  Now, however AR solutions tend to include interaction with the real world objects and this blended solution is often referred as *mixed reality* (MR). For the sake of simplicity we will refer augmented reality as an umbrella term that cover mixed reality too. 
 
 Figure 1-2 shows an example of AR.
+ ![augmented reality exmample](/images/Augmented_reality_temporary1024x576.png)
 
 Figure 1-3 shows the entire reality - virtual reality continuum
 
