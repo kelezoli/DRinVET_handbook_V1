@@ -23,9 +23,9 @@ meta:
     content: Documentation for Digital Reality in VET
 ---
 
-![Temporary Banner](/images/banner2.png)
-# Introduction
 
+# Introduction
+![Temporary Banner](/images/paint_szimulator_rajz_jav.png)
 You are standing a in a glass box with a gun. The box gets wider and turns itself a large car industry workspace. With your spray gun you can paint  the car parts and when you got finished, you do not have to wait until it gets dried, nor to get undressed. Also, you do not have to sand the part to repaint again for the next run, no pollution and no health damage risks, because  you are in the world of Virtual Reality. 
 
 You are in front of a flat screen following a path with your welding gun and the simulator will follow your hand and measuring the distance, the angles of your hand and the traveling speed of the gun. Before this tool, nobody could improve motor skills so fast and accurately, because  of the lack of instant feedback.
