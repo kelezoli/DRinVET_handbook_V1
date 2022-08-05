@@ -26,7 +26,7 @@ meta:
 
 # Introduction
 ![Temporary Banner](/images/paint_szimulator_rajz_jav.png)
-You are standing a in a glass box with a gun. The box gets wider and turns itself a large car industry workspace. With your spray gun you can paint  the car parts and when you got finished, you do not have to wait until it gets dried, nor to get undressed. Also, you do not have to sand the part to repaint again for the next run, no pollution and no health damage risks, because  you are in the world of Virtual Reality. 
+You are standing in a glass box with a gun. The box gets wider and turns itself a large car industry workspace. With your spray gun you can paint  the car parts and when you got finished, you do not have to wait until it gets dried. Also, you do not have to sand the part to repaint again for the next run, no pollution and no health damage risks, because  you are in the world of Virtual Reality. 
 
 You are in front of a flat screen following a path with your welding gun and the simulator will follow your hand and measuring the distance, the angles of your hand and the traveling speed of the gun. Before this tool, nobody could improve motor skills so fast and accurately, because  of the lack of instant feedback.
 
@@ -52,7 +52,7 @@ We wrote this book for you because we'd like to :
 ## Assumptions
 
 <img src="/images/tom_sawyer.png" alt="Assumptions_intial" width="100%" align="left"/>
-Before we dive into the world of Digital Reality, we should say a few words about reality in vocational education. Some training centers are well equipped and have numerous well trained teachers. Most of them, however, are far from being aware of the whole range of opportunities digital realities offer. To be realistic, we assume you may work in a school in a mostly centralized educational system with limited influence and resources. We detail [typical situations](https://kelezoli.github.io/DRinVET_handbook_V1/#4-obstacles) later on in the chapeter four "Obstacles".
+Before we dive into the world of Digital Reality, we should say a few words about reality in vocational education. Some training centers are well equipped and have numerous well trained teachers. Most of them, however, are far from being aware of the whole range of opportunities digital realities offer. To be realistic, we assume you may work in a school in a mostly centralized educational system with limited influence and resources. We detail [typical situations](https://kelezoli.github.io/DRinVET_handbook_V1/#4-obstacles) later on in the chapter four "Obstacles".
 
 We made assumptions about your digital knowledge. We assume that you as a teacher have at least a passing familiarity with Virtual Reality (VR),  Augmented Reality (AR). You may have heard the terms or seen someone trying out a VR experience at a mall or retailer. We assume that you have a certain experience of using learning management software (LMS) such as Moodle, or Google Classroom. You use or are aware of social media such as Facebook or Instagram. You used or saw using videoconferencing tools such as Zoom or Microsoft Teams. You are capable to install, run applications on smartphones and personal computers (PCs).  
 
