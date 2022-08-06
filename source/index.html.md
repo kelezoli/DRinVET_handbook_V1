@@ -120,7 +120,7 @@ Figure 1-2 shows an example of AR.
 
 Figure 1-3 shows the entire reality - virtual reality continuum
 
-![Reality_virtuality continuum](/images/reality_virtuality_contiuum.png)
+![Reality_virtuality continuum](/images/reality_continuum_freehand_coloured_texted.png)
 
 
 
