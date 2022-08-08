@@ -153,6 +153,33 @@ AR can help memorize complicated processes. For example, instead of just present
 There are concerns using AR in classroom. One of them is lack of quality content for vocational education. However, with AR technology you can create your own material. The other concern is cost. One cost is related to the hardware that is decreasing as smartphones getting stronger and able to run AR apps. Other cost factor is more significant: time devoted to learn and experiment to introduce AR in classroom. 
 
 To lower concerns on cost and content we gathered few tools and practices below:
+### AR Tools
+
+**Assemblr**
+
+![img](https://cdn.iste.org/www-root/2020-11/Assemblr.png)
+
+The [Assemblr Studio](https://assemblrworld.com/studio)  is an app that you use via your computer's web browser. The 3D library is  notable with animated objects and many educational items to include in  your class. The platform is simple to use, and it allows more  personalizations than many of the other tools. The free options are  acceptable for many classrooms, and the cost to upload a customized  trigger image (also called marker) is affordable. View my AR experience  using the Assemblr app or your browser by scanning it.
+
+ ![img](/images/Trainer_qr.png)
+
+and in web player:
+
+<iframe allowFullScreen="true" width='400px' height='500px' src='https://play.assemblrworld.com/Viewer/-kcEVsQtoVWnzZg5nWn5?&transparent=true' frameborder='0'></iframe>
+
+## Steps:
+
+1. Go to [Assemblr Studio](https://assemblrworld.com/studio) and find the browser based application. You may need to register for free.
+2. Select “Create New Project” and give your project a name.
+3. Add the 3D objects, pictures, or videos you want to include in your experience.
+4. Place and modify the items on the marker area to customize the experience.
+5. Select “Publish” and download the marker or share the link to view your experience.
+6. You may download the application to your smartphone to create AR materials.
+
+**Cost:** Free with the QR code
+ **Creation Platform:** Download application on 
+ **Ease of Use:** Easy with added optional
+ **Features:** Use your images or videos, a large and  animated 3D object library, 3D objects can be uploaded with a  subscription (otherwise 8 MB is the file limit)
 
   **VR Solutions**
 
