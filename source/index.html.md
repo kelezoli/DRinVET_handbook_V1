@@ -32,9 +32,9 @@ You are in front of a flat screen following a path with your welding gun and the
 
 You are standing on the board of a container ship and control the loading and departing. You act in a simulated accident scenarios in different weather conditions. The immersive Virtual Reality helps you to learn the good safety protocols quickly.
 
-We find ourselves in a rapidly emerging technology field. The industry is constantly abuzz with the “next big things” new and newest a Virtual Reality headsets, haptic gloves and fast, reliable devices that do the magic: you feel as if you were there. The headsets tracks your head movements accurately. The visuals are more than convincing. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire, gaze out the windows with the professional audio tying it all together. It feels real. And it is getting cheaper. Now, when we write the book, a standalone headset that does require even a laptop costs apporximately 800 Euros and gives a full immersive experience.
+We find ourselves in a rapidly emerging technology field. Virtual Reality headsets, fast and reliable devices do the magic: you feel as if you were there. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire, gaze out the windows of a submarine with the professional audio tying it all together. It feels real. And it is getting cheaper each year.
 
-And if you make one step further, the educational simulations (so called Serious Games)  are developed to follow very tiny movements of your fingers  teach safety protocols, drive vehicles in terrains in deep forests or handle construction cranes even in strong wind 200 meters from the ground with high fidelity. The high tech high precision learning is not a privilege of astronauts anymore.  
+And if you make one step further, the educational simulations are developed to follow very tiny movements of your fingers teach safety protocols, drive vehicles in terrains in deep forests or handle construction cranes even in strong wind 200 meters from the ground with high fidelity. This is a good news in Vocational Education. The high tech high precision learning is not a privilege of astronauts anymore.  
 
 ## About this handbook
 
