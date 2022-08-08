@@ -127,15 +127,16 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
 
 
-
-
   
 
   **AR Solutions**
 
 ​    There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
 
-  
+   **Tools to make your AR solutions**
+
+​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
+
 
   **VR Solutions**
 
@@ -143,10 +144,7 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
   
 
-  **Tools to make your AR solutions**
-
-​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
-
+ 
 
 ### Ideas and good practices
 
