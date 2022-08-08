@@ -31,11 +31,12 @@ You are standing in a glass box with a spray gun. The box gets wider and turns i
 
 You are in front of a flat screen following a path with your welding gun and the training tool will follow your hand and measuring the distance, the angles of your hand and the traveling speed of the gun. Before this tool, nobody could improve motor skills so fast and accurately, because  of the lack of instant feedback.
 
-You are standing on the board of a container ship and control the loading and departing. You act in a simulated accident scenarios in different weather conditions. The immersive Virtual Reality helps you to learn the good safety protocols quickly.
+We find ourselves in a rapidly emerging technology field. Virtual Reality headsets, fast and reliable devices do the magic: you feel as if you were there. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire and gaze out the windows. The professional audio tying it all together. It feels real. 
+Moreover, it is precise. Educational simulations are developed to follow very tiny movements of your fingers to proceed medical operations, they teach manoeuvering large cargo ships, help memorizing safety protocols, driving vehicles in terrains in deep forests or handling construction cranes even in strong wind at 200 meters from the ground with high fidelity. 
+And it is getting cheaper each year.
+This is a good news in vocational training. The high tech high precision learning is not a privilege of astronauts anymore.  
 
-We find ourselves in a rapidly emerging technology field. Virtual Reality headsets, fast and reliable devices do the magic: you feel as if you were there. You could wander about in the ancient Rome, watch birds fly by, stand by a roaring fire and gaze out the windows. The professional audio tying it all together. It feels real. And it is getting cheaper each year.
 
-And if you make one step further, the educational simulations are developed to follow very tiny movements of your fingers teach safety protocols, drive vehicles in terrains in deep forests or handle construction cranes even in strong wind 200 meters from the ground with high fidelity. This is a good news in Vocational Education. The high tech high precision learning is not a privilege of astronauts anymore.  
 
 ## About this handbook
 
