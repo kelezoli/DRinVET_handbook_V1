@@ -132,7 +132,7 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
 Here you find definitions and links for distance learning, we list here simple but clever solutions to gamify materials, entertain and teach students with help of Digital Reality on a relatively low cost. 
 
-**Distance learning types**
+**Distance learning formats**
 
 These types of distance learning include:
 
