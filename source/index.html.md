@@ -181,6 +181,29 @@ and in web player:
  **Ease of Use:** Easy with added optional
  **Features:** Use your images or videos, a large and  animated 3D object library, 3D objects can be uploaded with a  subscription (otherwise 8 MB is the file limit)
 
+**EyeJack Creator**
+
+![img](https://cdn.iste.org/www-root/2020-11/eyelackcreator.png)
+
+The [EyeJack app](http://creator.eyejackapp.com/)  is one of the easiest platforms to use because it’s essentially limited  to adding a short video on top of a trigger image. The application must  be installed on your computer. An audio upload is available to include a  voice-over or ambient sound. Watch the video to see how easy it is: https://eyejackapp.com/pages/panels
+
+**Steps:**
+
+1. Download the [EyeJack app](http://creator.eyejackapp.com/) onto your computer.
+2. Upload a trigger image (JPG or PNG file).
+3. Upload a video, GIF or PNG to layer on top of the trigger image in the augmented reality experience.
+4. Keep the QR provided to view in the app.
+5. Download the EyeJack app on your mobile device (iOS & Android).
+6. Open the app and select the eye at the bottom of the screen. Scan the QR code (found in step 4) and then view the trigger image.
+
+**Cost:** Free for 100 views per month no longer than 30 secs.
+ **Creation Platform:** Download application on a computer
+ **Ease of Use:** Easy
+ **Features:** Use your videos and audio files
+
+
+
+
   **VR Solutions**
 
 ​    here Our stuff will come 
