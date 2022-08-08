@@ -128,22 +128,6 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
 
 
-### Ideas and good practices
-
-Here you find definitions and links for distance learning, we list here simple but clever solutions to gamify materials, entertain and teach students with help of Digital Reality on a relatively low cost. 
-
-**Distance learning formats**
-
-These types of distance learning include:
-
-- Video conferencing
-  Video conferencing is a meeting where participants use video to connect over the internet.  Using tools like Zoom, Blackboard  Collaborate, Adobe Connect, or other conferencing software, teachers and  students interact together no matter where they are located. *See examples [here]() and [here]()*
-- Hybrid distance education
-  This format combines synchronous and asynchronous methods. Students receive deadlines to complete assignments and exams.  They maintain contact  with their instructor. Yet, they work at their own pace. As students  progress, they gain access to new modules. *A DRinVET own method is introduced [here]().* *Another remarkable example is [here]()*
-- Open schedule online courses
-  Such courses provide students total freedom. To complete coursework, students receive online textbooks, and other materials. Students are given a set of deadlines. It requires significant  self-discipline and motivation. *See an example [here]().*
-- Fixed-time online courses
-  The most common format for distance learning is "Fixed-time online courses". In this format, students log-in to the learning site at designated  times. They must complete pre-scheduled classroom activities at a specific pace. These activities often include chats and discussion forums. Fixed  time online courses encourage student interaction, but there’s little room for self-pacing. 
 
   
 
@@ -162,6 +146,25 @@ These types of distance learning include:
   **Tools to make your AR solutions**
 
 ​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
+
+
+### Ideas and good practices
+
+Here you find definitions and links for distance learning, we list here simple but clever solutions to gamify materials, entertain and teach students with help of Digital Reality on a relatively low cost. 
+
+**Distance learning formats**
+
+These types of distance learning include:
+
+- Video conferencing
+  Video conferencing is a meeting where participants use video to connect over the internet.  Using tools like Zoom, Blackboard  Collaborate, Adobe Connect, or other conferencing software, teachers and  students interact together no matter where they are located. *See examples [here]() and [here]()*
+- Hybrid distance education
+  This format combines synchronous and asynchronous methods. Students receive deadlines to complete assignments and exams.  They maintain contact  with their instructor. Yet, they work at their own pace. As students  progress, they gain access to new modules. *A DRinVET own method is introduced [here]().* *Another remarkable example is [here]()*
+- Open schedule online courses
+  Such courses provide students total freedom. To complete coursework, students receive online textbooks, and other materials. Students are given a set of deadlines. It requires significant  self-discipline and motivation. *See an example [here]().*
+- Fixed-time online courses
+  The most common format for distance learning is "Fixed-time online courses". In this format, students log-in to the learning site at designated  times. They must complete pre-scheduled classroom activities at a specific pace. These activities often include chats and discussion forums. Fixed  time online courses encourage student interaction, but there’s little room for self-pacing. 
+
 
 ## 2. Digital Reality in VET
 
