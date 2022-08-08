@@ -133,13 +133,14 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
 AR is often adopted to help students with complicated subjects. For example, in subjects requiring high spatial ability AR can play important role. Another application of augmented reality in education includes  teaching global perspectives through virtual field trips. 
 
-Currently, only a few schools currently use augmented  reality in the classroom, mostly because of: 
+Currently, only a few schools use augmented reality in the classroom. The main reasons are: 
 
-- Bulkiness of AR equipment
-
+- Bulkiness of AR equipment 
 - Quality of AR educational content
 - Concerns over its value
 - Lack of proper funding (i.e. AR capable tools or headsets are expensive)
+
+**HERE VALUABLE INFO with links and descriptions**
 
 ### Benefits of AR
 
