@@ -129,14 +129,27 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
   
 
-  **AR Solutions**
+### Augmented reality in Education
 
-​    There are plenty of them. Should make a decent list with descriptions, links, and technical infos on the sidebars. WE HAVE TO KEEP ON A GENERAL WAY. Providing tools only with a few words
+AR is often adopted to help students with complicated subjects. For example, in subjects requiring high spatial ability AR can play important role. Another application of augmented reality in education includes  teaching global perspectives through virtual field trips. 
 
-   **Tools to make your AR solutions**
+Currently, only a few schools currently use augmented  reality in the classroom, mostly because of: 
 
-​    A list with recent sofwares available (free and priced) short descriptions, and an estimate on the learning curve.
+- Bulkiness of AR equipment
 
+- Quality of AR educational content
+- Concerns over its value
+- Lack of proper funding (i.e. AR capable tools or headsets are expensive)
+
+### Benefits of AR
+
+AR can have a significant impact on learning environments. Student interest soars with the opportunity to creating content. AR technologies can allow them to add to valuable content, create virtual worlds. Classes that exploits AR  can help students become more involved and collaborate. 
+
+AR can help memorize complicated processes. For example, instead of just presenting photographs on a projector showcasing typical mistakes in creating an artifact, a teacher can use AR technology to make memorable connections that lead to failure or success. Moreover, AR technology helps teachers create lesson plans with experiences. Students  can carry out physical activities instead  of watching a demonstration. This approach can help with sensory  development.
+
+There are concerns using AR in classroom. One of them is lack of quality content for vocational education. However, with AR technology you can create your own material. The other concern is cost. One cost is related to the hardware that is decreasing as smartphones getting stronger and able to run AR apps. Other cost factor is more significant: time devoted to learn and experiment to introduce AR in classroom. 
+
+To lower concerns on cost and content we gathered few tools and practices below:
 
   **VR Solutions**
 
