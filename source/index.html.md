@@ -128,17 +128,22 @@ Figure 1-3 shows the entire reality - virtual reality continuum
 
 
 
-***will list here simple but clever solutions to gamify entertain and teach students with help of Digital Reality.*** 
+### Ideas and good practices
 
-​    ***some examples:***
+Here you find definitions and links for distance learning, we list here simple but clever solutions to gamify materials, entertain and teach students with help of Digital Reality on a relatively low cost. 
 
-​    ***LMS Systems -> how to use them,*** 
+**Distance learning types**
 
-​    ***Video tutorials -> practical solutions or links where to get them.***
+These types of distance learning include:
 
-​    ***Escape rooms***
-
-​    ***Online physical workouts. (videózd le, hogy veszed fel a zoknidat kéz nélkül...)***
+- Video conferencing
+  Video conferencing is a meeting where participants use video to connect over the internet.  Using tools like Zoom, Blackboard  Collaborate, Adobe Connect, or other conferencing software, teachers and  students interact together no matter where they are located. *See examples [here]() and [here]()*
+- Hybrid distance education
+  This format combines synchronous and asynchronous methods. Students receive deadlines to complete assignments and exams.  They maintain contact  with their instructor. Yet, they work at their own pace. As students  progress, they gain access to new modules. *A DRinVET own method is introduced [here]().* *Another remarkable example is [here]()*
+- Open schedule online courses
+  Such courses provide students total freedom. To complete coursework, students receive online textbooks, and other materials. Students are given a set of deadlines. It requires significant  self-discipline and motivation. *See an example [here]().*
+- Fixed-time online courses
+  The most common format for distance learning is "Fixed-time online courses". In this format, students log-in to the learning site at designated  times. They must complete pre-scheduled classroom activities at a specific pace. These activities often include chats and discussion forums. Fixed  time online courses encourage student interaction, but there’s little room for self-pacing. 
 
   
 
