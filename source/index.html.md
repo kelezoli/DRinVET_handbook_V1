@@ -200,13 +200,13 @@ The [EyeJack app](http://creator.eyejackapp.com/)  is one of the easiest platfor
     <strong>Features:</strong> Use your videos pictures and audio files with a 3 MB limit in free version. See pricing plans on their website.
 </aside>
 
-## **Halo AR**
+**Halo AR**
 
 The Halo AR app is a new way to create augmented reality within the  mobile application. In a few easy steps, students can build experiences  on images by uploading or capturing a picture and then layering an AR  experience on top of it. The AR layers can be from photos, videos or 3D  objects on the mobile device or found in the library of content in the  application. After the experience is published, those that follow you  can view it in augmented reality. Explore the example of my book coming  to life in augmented reality using the Halo AR app.
 
 ![img](https://cdn.iste.org/www-root/Immersive_Classroom_cover.jpg?VersionId=xcOy0jIyAmn7xAD0xRstLfa6AZYr_t7B)
 
-## **WebAR**
+**WebAR**
 
  
 
