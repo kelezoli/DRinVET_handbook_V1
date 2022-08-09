@@ -194,6 +194,7 @@ The [EyeJack app](http://creator.eyejackapp.com/)  is one of the easiest platfor
 6. Open the app and select the eye at the bottom of the screen. Scan the QR code (found in step 4) and then view the trigger image.
 
 <aside class ="notice">
+    </br>
     <strong>Cost:</strong> Free for 100 views per month no longer than 30 secs.</br>
     <strong>Creation Platform:</strong> Download application on a computer</br>
     <strong>Ease of Use:</strong> Easy</br>
