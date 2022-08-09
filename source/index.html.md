@@ -164,7 +164,7 @@ The [Assemblr Studio](https://assemblrworld.com/studio)  is an app that you use 
  ![img](/images/Trainer_qr.png)
 
 
-## Steps:
+**Steps:**
 
 1. Go to [Assemblr Studio](https://assemblrworld.com/studio) and find the browser based application. You may need to register for free.
 2. Select “Create New Project” and give your project a name.
