@@ -198,6 +198,33 @@ The [EyeJack app](http://creator.eyejackapp.com/)  is one of the easiest platfor
  **Ease of Use:** Easy
  **Features:** Use your videos and audio files
 
+## **Halo AR**
+
+The Halo AR app is a new way to create augmented reality within the  mobile application. In a few easy steps, students can build experiences  on images by uploading or capturing a picture and then layering an AR  experience on top of it. The AR layers can be from photos, videos or 3D  objects on the mobile device or found in the library of content in the  application. After the experience is published, those that follow you  can view it in augmented reality. Explore the example of my book coming  to life in augmented reality using the Halo AR app.
+
+![img](https://cdn.iste.org/www-root/Immersive_Classroom_cover.jpg?VersionId=xcOy0jIyAmn7xAD0xRstLfa6AZYr_t7B)
+
+## **WebAR**
+
+ 
+
+![img](https://cdn.iste.org/www-root/2020-11/mywebar.png)
+
+The WebAR resource is a favorite tools of many because it uses WebXR to make all the magic happen in the browser.  Without the need to download an app, it makes the experience run much  faster.
+
+**Steps:**
+
+1. Go to [mywebar.com](https://mywebar.com/) and select “Sign Up” to set up an account.
+2. Select “Add New Project.”
+3. Give the project a name and select the type of AR experience you want (QR code is free), then select “Create.”
+4. Upload or use the content available in the library to layer on the QR code.
+5. Select the save image and scan the QR code with a mobile device.
+
+**Cost:** Free for QR code
+ **Creation Platform:** Web-based
+ **Ease of Use:** Easy with added optional
+ **Features:** Use your videos and 3D object files, large 3D library on the site, added interactions in the AR experience
+
 
 
 
