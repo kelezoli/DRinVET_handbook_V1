@@ -205,7 +205,7 @@ The [EyeJack app](http://creator.eyejackapp.com/)  is one of the easiest platfor
 curl "http://example.com/api/kittens/2" \
   -X DELETE \
   -H "Authorization: meowmeowmeow"
-  <code>![img](https://cdn.iste.org/www-root/2020-11/eyelackcreator.png)</code>***
+  <code>! <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> </code>***
 ```
 
 **Halo AR**
