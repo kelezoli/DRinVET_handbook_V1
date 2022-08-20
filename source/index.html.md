@@ -25,7 +25,7 @@ meta:
 
 
 # Introduction
-![Temporary Banner](/images/paint_szimulator_rajz_jav.png)
+ <img src="/images/paint_szimulator_rajz_jav.png" alt="" width=70% > 
 
 You are standing in a glass box with a spray gun. The box gets wider and turns itself a large car industry workspace. After training you do not have to wait until it gets dried. Also, you do not have to sand the part to repaint again for the next run. 
 
